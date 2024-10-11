@@ -7,6 +7,7 @@ I am a studying analysis and systems development
 * 🌍  I'm based in Campinas-SP
 * ✉️  You can contact me at [nataliadiasfernande@gmail.com](mailto:nataliadiasfernande@gmail.com)
 * 🧠  I'm learning C language, git, networking, computer architecture and information security.
+* 📚 I'm currently in the 2nd semester of college, studying python, cloud computing, html, css, php, javascript and operating systems
 
 ### Skills
 
