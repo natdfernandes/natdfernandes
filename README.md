@@ -9,6 +9,9 @@ I am a studying analysis and systems development
 * 🧠  I'm learning C language, Python, html, css, git, networking, computer architecture and information security.
 * 📚 I'm currently in the 2nd year, 3th semester of college, studying python, cloud computing, html, css, php, javascript and operating systems
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natdfernandes&hide=stars,prs,issues&show_icons=true&theme=midnight-purple)](https://natdfernandes.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natdfernandes&layout=compact&theme=midnight-purple)](https://natdfernandes.github.io/)
+
 ### Skills
 
 
@@ -19,4 +22,5 @@ I am a studying analysis and systems development
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/natdfernandes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/natdfernandes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/natalia-fernandes-3b698122a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
