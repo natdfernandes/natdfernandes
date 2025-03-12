@@ -1,16 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natalia
 ===============================================================================================================================
 
-I am a studying analysis and systems development
+I am a studying analysis and systems development 💻
 ------------------------------------------------
 
 * 🌍  I'm based in Campinas-SP
 * ✉️  You can contact me at [nataliadiasfernande@gmail.com](mailto:nataliadiasfernande@gmail.com)
-* 🧠  I'm learning C language, Python, html, css, git, networking, computer architecture and information security.
-* 📚 I'm currently in the 2nd year, 3th semester of college, studying python, cloud computing, html, css, php, javascript and operating systems
+* 🧠  I'm learning C language, Python, html, css, JavaScript, Php, git, networking, computer architecture and information security, operating systems and Agile methodology.
+* 📚 I'm currently in the 2nd year, 3th semester of college, studying Cloud, IoT and Industry 4.0 applications in Python, Rapid Application Development in Python, Software engineering, Database and Information system.
+
+### Portuguese: Fluent (native) 
+### English: Intermediate 📚
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natdfernandes&hide=stars,prs,issues&show_icons=true&theme=midnight-purple)](https://natdfernandes.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natdfernandes&layout=compact&theme=midnight-purple)](https://natdfernandes.github.io/)
+
 
 ### Skills
 
