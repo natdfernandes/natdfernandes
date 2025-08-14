@@ -6,8 +6,8 @@ I am a studying analysis and systems development 💻
 
 * 🌍  I'm based in Campinas-SP
 * ✉️  You can contact me at [nataliadiasfernande@gmail.com](mailto:nataliadiasfernande@gmail.com)
-* 🧠  I'm learning C language, Python, html, css, JavaScript, Php, git, networking, computer architecture and information security, operating systems and Agile methodology.
-* 📚 I'm currently in the 2nd year, 3th semester of college, studying Cloud, IoT and Industry 4.0 applications in Python, Rapid Application Development in Python, Software engineering, Database and Information system.
+* 🧠  I'm learning C language, Python, html, css, JavaScript, Php, git, networking, computer architecture and information security, operating systems and Agile methodology, IoT and Industry 4.0 applications in Python, Rapid Application Development in Python, Software engineering, Database and Information system.
+* 📚 I'm currently in the 2nd year, 4th semester of college, studying Big Data in Python, object-oriented programming in java, computational thinking, logic and mathematics.
 
 ### Portuguese: Fluent (native) 
 ### English: Intermediate 📚
