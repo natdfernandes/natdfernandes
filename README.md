@@ -13,9 +13,6 @@ I am a studying analysis and systems development 💻
 ### Portuguese: Fluent (native) 
 ### English: Intermediate 📚
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natdfernandes&hide=prs,issues&show_icons=true&theme=midnight-purple)](https://natdfernandes.github.io/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natdfernandes&layout=compact&theme=midnight-purple)](https://natdfernandes.github.io/)
-
 
 ### Skills
 
