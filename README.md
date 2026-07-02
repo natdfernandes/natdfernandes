@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a studying analysis and systems development 💻
 ------------------------------------------------
+I am an Android development intern at Eldorado 📱 
+------------------------------------------------
 
 * 🌍  I'm based in Campinas-SP
 * ✉️  You can contact me at [nataliadiasfernande@gmail.com](mailto:nataliadiasfernande@gmail.com)
